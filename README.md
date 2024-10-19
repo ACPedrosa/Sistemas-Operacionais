@@ -14,6 +14,6 @@ O projeto é dividido em três classes principais:
 
 1. **Main**: Classe principal que inicializa e preenche os vetores, instancia a classe master e executa a soma.
 2. **AddVetorMaster**: Classe responsável por gerenciar as threads que realizam a soma dos vetores. Divide o trabalho entre as threads e aguarda a conclusão delas.
-3. **AddVetorThread**: Classe que implementa a interface `Runnable`. Contém o código que realiza a soma de uma fatia dos vetores `A` e `B`, a partir do método `run().
+3. **AddVetorThread**: Classe que implementa a interface `Runnable`. Contém o código que realiza a soma de uma fatia dos vetores `A` e `B`, a partir do método `run()`.
 
 

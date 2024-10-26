@@ -1,5 +1,5 @@
 # Sistemas-Operacionais: 
-  ## Soma de Vetores em Java com Multithreading
+  ## Soma e Multiplicação de Vetores em Java com Multithreading
 
 ## Descrição
 Este projeto é uma implementação em Java que realiza a soma de dois vetores de números do tipo `double` utilizando múltiplas threads. A soma é calculada de forma paralela, permitindo uma execução mais rápida, especialmente com vetores grandes. Este projeto é baseado em conceitos de programação concorrente e foi desenvolvido como parte de uma atividade acadêmica.

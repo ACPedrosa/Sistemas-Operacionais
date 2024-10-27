@@ -5,7 +5,7 @@
 Este projeto é uma implementação em Java que realiza a soma de dois vetores de números do tipo `double` utilizando múltiplas threads. A soma é calculada de forma paralela, permitindo uma execução mais rápida, especialmente com vetores grandes. Este projeto é baseado em conceitos de programação concorrente e foi desenvolvido como parte de uma atividade acadêmica.
 
 ## Objetivos
-- Realizar a soma entre dois vetores `C = A + B`.
+- Realizar a soma e multiplicação entre dois vetores `C = A + B` e `C = A * B`.
 - Implementar a soma para qualquer tamanho de vetor e qualquer quantidade de threads.
 - Medir o tempo de execução do código.
 

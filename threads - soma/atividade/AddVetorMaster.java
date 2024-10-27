@@ -34,11 +34,11 @@ public class AddVetorMaster {
             v_threads[i] = new Thread(new AddVetorThread(vetorA, vetorB, vetorR, inicio, fim, i));
             v_threads[i].start();
         }
-        // Esperar todas as threads finalizarem
-        joinThreads();
     }
 
     public double [] getVetorR(){
+        // Esperar todas as threads finalizarem
+        joinThreads();
         return vetorR;
     }
 

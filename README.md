@@ -7,7 +7,7 @@
 
 > _Este repositório reúne projetos práticos desenvolvidos para aprofundar o entendimento dos principais conceitos de **Sistemas Operacionais**._
 
-Cada diretório  irá conter implementações e simulações de temas abordados na disciplina, seguindo uma ordem didática de evolução do conteúdo.
+Cada diretório  irá conter implementações e simulações de temas abordados durante o meu estudo, seguindo uma ordem didática de evolução do conteúdo.
 
 ---
 
